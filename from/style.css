@@ -4,7 +4,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-       background-color: #795be2;
+       background-color: #8f27f7;
 }
 
 header {
@@ -13,11 +13,10 @@ header {
     justify-content: center;
     align-items: center;
     height: 100%;
-    margin-top: 30px;;
+    padding-top: 30px;
 }
 
 #div1 {
-    margin-top: 30px;
     background: white;
   
     border-radius: 10px;
@@ -26,7 +25,7 @@ header {
     text-align: center;
     justify-content: center;
     align-items: center;
-    width:350px;
+    width:400px;
     height: auto;
 
 }
@@ -39,7 +38,6 @@ header {
     background-color: rgb(240, 248, 252);
     justify-content: center;
     align-items: center;
-    margin-bottom: 10px;
 }
 
 #pic{
